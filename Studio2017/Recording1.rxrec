@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="e38f6b92-ba0c-4cdd-ba6e-1d1c9a774a19"
+mode="Global"
+rxversion="8.0">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="Studio2017">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="d47e6ffe-397d-47dd-b02a-fd25db5d6e30"
+	name="Studio2017Repository"
+	relativepath="Studio2017Repository.rxrep"
+	rxversion="8.0">
+		<codegen
+		classname="Studio2017Repository"
+		namespace="Studio2017">
+		</codegen>
+		<rootfolder
+		id="ee53a659-b0ff-4925-995e-47442942e273"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

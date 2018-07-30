@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="Studio2017"
+      id="c450825b-4214-440d-8884-fddc1bf9ecce"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="Studio2017"
+      id="c450825b-4214-440d-8884-fddc1bf9ecce"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
